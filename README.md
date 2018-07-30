@@ -8,10 +8,10 @@ unzip the game engine you would like to use, includes full source so you can twe
 
 Then edit your /etc/coderunner2.conf or c:\Windows\coderunenr.ini - increment the servers=# field and add a new listerner entry.
 
-port=2321
-blocking=off
-nagle=off
-onconnect=/BBS/MCSOFT/BJ212018.P
+    port=2321
+    blocking=off
+    nagle=off
+    onconnect=/BBS/MCSOFT/BJ212018.P
 
 Save and restart your coderunner (DOOR SERVER) daemon - telnet to 127.0.0.1 port 2321 - viola!
 
