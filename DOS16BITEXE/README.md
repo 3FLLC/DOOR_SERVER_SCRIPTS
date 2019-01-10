@@ -1,4 +1,4 @@
-This folder contains 16bit DOS Door Games and Utilities.
+This folder contains 16bit DOS Door Games and Utilities.   :no_mobile_phones:
 
 Personally, I am using Rick Parrish's GAMESRV to host these on IdleUniverse.com Web Server.
 ```
