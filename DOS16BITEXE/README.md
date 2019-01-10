@@ -12,3 +12,5 @@ Personally, I am using Rick Parrish's GAMESRV to host these on IdleUniverse.com 
                                                  for Windows, Mac and Linux Operating Systems
                                                  http://modernpascal.com/index.p/blog/16
 ```
+
+:copyright: 2019 by Modern Pascal Solutions, LLC. (Dante Bradley, Doug Edwards and Ozz Nixon)
